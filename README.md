@@ -20,3 +20,11 @@ This project is a Sudoku Solver built with Python and Tkinter, featuring a graph
 3. Tkinter GUI:
 - Displays a 9x9 grid of entry fields for easy input.
 - Provides a "Solve" button to trigger the solution algorithm.
+
+  ## Screenshots
+
+- ![Screenshot 2024-11-08 163154](https://github.com/user-attachments/assets/02d247af-a992-4bde-9085-e7d01d3917fb)
+- ![Screenshot (13)](https://github.com/user-attachments/assets/d12fab9a-2170-4da2-a0da-bd7c1c06bdb1)
+- ![Screenshot (14)](https://github.com/user-attachments/assets/5e821d0b-15df-479d-ab8f-54dcb812944f)
+
+
